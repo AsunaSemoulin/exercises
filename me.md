@@ -27,4 +27,4 @@ Joke not found!
 Joke still not found!
 
 << [previous](https://github.com/ArnaudLosson
-) || Asuna Semoulin || [next](https://github.com/Abs0lut) >>
+) || Asuna Semoulin || [next](https://github.com/freyaln) >>
